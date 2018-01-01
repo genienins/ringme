@@ -1,37 +1,21 @@
-## Welcome to GitHub Pages
+We don't need or store any personal information of our users that may identify them an individual. We do use third party tools, which may store non personal information.
 
-You can use the [editor on GitHub](https://github.com/genienins/ringme/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
+# Google Analytics
+Though we don't store any personal information. apps may contain APIs from third parties. Specifically, our mobile games which use Google Analytics to help analyse how users behave in the game. We mainly look out for how long users have spent in the game and how many levels were played. This information is then used to evaluate use of our game and to improve the usability. All information collected via the Google Analytics API is anonymous.
+Google Analytics privacy policy: http://www.google.com/intl/en/policies/privacy/
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+# Advertisements
+We display advertisements in our free apps and games to fund the development process for current and future Services. The advertisements are provided by third party companies and they may use and collect anonymous data about the User's interests to be able to select more relevant advertisements. This information may also include location data and unique device identifier. No information is collected to allow third parties identifying you as a person.
+We use an external tool for the collection of analytic information. The tool uses similar information as used with advertisements.
+Admob policy: http://www.google.com/intl/en/policies/privacy/
+We display internal advertisements which advertise other Kenny Play games which we feel players will be interested in; in order to provide the best scope of advertisements we use data listing all installed applications on your device allowing us to filter out games already installed. No user specific or app specific information is stored or recorded.
+We cache images used for internal advertisements by storing them in the application root directory allowing us to re-display advertisements without needing to download them again keeping data usage to a minimum.
 
-### Markdown
+# Terms of Service
+We reserve the right to discontinue service at any time for any reason.
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+# Support
+Please contact developer@genienins.com regarding any issue you may be having.
 
-```markdown
-Syntax highlighted code block
-
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/genienins/ringme/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+# Thanks for using RINGME!
+We hope you enjoy our games and we're happy to read any feedback you wish to give us!
